@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Maliq — a passionate Python developer with a strong focus on clean code, automation, and solving real-world problems with elegant solutions. I enjoy building tools, APIs, and automating workflows using Python.<br><br>💻 Languages & Tools I Use:<br><br>🐍 Python (Flask, Django, FastAPI, Tkinter)<br><br>🗃️ SQLite, PostgreSQL, MySQL<br><br>⚙️ Git, GitHub Actions, Docker<br><br>☁️ Cloud (basic AWS / Google Cloud usage)<br><br>📊 Pandas, NumPy, Matplotlib (for data tasks)<br><br>🔭 What I'm working on:<br><br>Building Python-based automation tools and CLI apps<br><br>Developing RESTful APIs with FastAPI & Flask<br><br>Open-source contributions to Python utilities<br><br>📫 Let's Connect!<br>Feel free to check out my repositories or reach out via GitHub Discussions or Issues if you want to collaborate.</p>
+<p align="left">Hi, I'm Maliq — a passionate Python developer with a strong focus on clean code, automation, and solving real-world problems with elegant solutions. I enjoy building tools, APIs, and automating workflows using Python.<br><br>💻 Languages & Tools I Use:<br><br>🐍 Python (Flask, Django, FastAPI, Tkinter)<br><br>🗃️ SQLite, PostgreSQL, MySQL<br><br>⚙️ Git, GitHub Actions, Docker<br><br>☁️ Cloud (basic AWS / Google Cloud usage)<br><br>📊 Pandas, NumPy, Matplotlib (for data tasks)<br><br>🔭 What I'm working on:<br><br>Building Python-based automation tools and CLI apps<br><br>Developing RESTful APIs with FastAPI & Flask<br><br>Open-source contributions to Python utilities<br><br>📫 Let's Connect!<br> malikathaya7@gmail.com <br>Feel free to check out my repositories or reach out via GitHub Discussions or Issues if you want to collaborate.</p>
 
 ###
 
